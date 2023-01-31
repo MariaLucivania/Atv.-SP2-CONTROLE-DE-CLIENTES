@@ -1,0 +1,15 @@
+C:\SENAI PROJETO CONTROLE DE CLIENTES\atividade\bin\Debug\net6.0\Atividade.exe
+C:\SENAI PROJETO CONTROLE DE CLIENTES\atividade\bin\Debug\net6.0\Atividade.deps.json
+C:\SENAI PROJETO CONTROLE DE CLIENTES\atividade\bin\Debug\net6.0\Atividade.runtimeconfig.json
+C:\SENAI PROJETO CONTROLE DE CLIENTES\atividade\bin\Debug\net6.0\Atividade.dll
+C:\SENAI PROJETO CONTROLE DE CLIENTES\atividade\bin\Debug\net6.0\Atividade.pdb
+C:\SENAI PROJETO CONTROLE DE CLIENTES\atividade\obj\Debug\net6.0\Atividade.csproj.AssemblyReference.cache
+C:\SENAI PROJETO CONTROLE DE CLIENTES\atividade\obj\Debug\net6.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\SENAI PROJETO CONTROLE DE CLIENTES\atividade\obj\Debug\net6.0\Atividade.AssemblyInfoInputs.cache
+C:\SENAI PROJETO CONTROLE DE CLIENTES\atividade\obj\Debug\net6.0\Atividade.AssemblyInfo.cs
+C:\SENAI PROJETO CONTROLE DE CLIENTES\atividade\obj\Debug\net6.0\Atividade.csproj.CoreCompileInputs.cache
+C:\SENAI PROJETO CONTROLE DE CLIENTES\atividade\obj\Debug\net6.0\Atividade.dll
+C:\SENAI PROJETO CONTROLE DE CLIENTES\atividade\obj\Debug\net6.0\refint\Atividade.dll
+C:\SENAI PROJETO CONTROLE DE CLIENTES\atividade\obj\Debug\net6.0\Atividade.pdb
+C:\SENAI PROJETO CONTROLE DE CLIENTES\atividade\obj\Debug\net6.0\Atividade.genruntimeconfig.cache
+C:\SENAI PROJETO CONTROLE DE CLIENTES\atividade\obj\Debug\net6.0\ref\Atividade.dll
